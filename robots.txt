@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://officialprotondev.github.io/puna-site/sitemap.xml
